@@ -1,3 +1,17 @@
+Youtoo Notes
+========
+
+This repository is a working copy of the base 'opscode/chef-repo' repository. To create a new Chef Cookbook, simply create the new repository in GitHub, clone the new repository down to your machine, and copy all the files in this repository to the new one.
+
+Important Links/References
+--------
+
+**Vagrant Documentation**: http://docs.vagrantup.com/v2/  
+**Chef Documentation**: https://wiki.opscode.com/display/chef/Home  
+**opscode/chef-repo**: https://github.com/opscode/chef-repo/  
+**Writing your first recipe**: http://reiddraper.com/first-chef-recipe/  
+**Ruby ERB template documentation**: http://ruby-doc.org/stdlib-2.1.1/libdoc/erb/rdoc/ERB.html  
+
 Overview
 ========
 
