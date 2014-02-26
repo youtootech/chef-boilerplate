@@ -10,6 +10,7 @@ Important Links/References
 **Chef Documentation**: https://wiki.opscode.com/display/chef/Home  
 **opscode/chef-repo**: https://github.com/opscode/chef-repo/  
 **Writing your first recipe**: http://reiddraper.com/first-chef-recipe/  
+**Spin up a multi-node EC2 stack with Chef**: https://learnchef.opscode.com/starter-use-cases/multi-node-ec2/  
 **Ruby ERB template documentation**: http://ruby-doc.org/stdlib-2.1.1/libdoc/erb/rdoc/ERB.html  
 
 Overview
